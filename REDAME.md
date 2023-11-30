@@ -1,3 +1,3 @@
 # Password Generator
 
-This is the Readme
+This is a One Page Password Generator Project built using HTML, CSS, & JavaScript.
